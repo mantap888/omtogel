@@ -617,14 +617,14 @@ margin-bottom: 0px !important;
     #snackbar-mobile {
         visibility: hidden;
         width: 53rem;
-        background-color: #000;
+        background: #000;
         color: #fff;
         text-align: center;
         border-radius: 80px 18px;
         position: fixed;
         font-family: Glory, sans-serif;
         z-index: 99999999999999999999999999999999999999999999999999999999999999;
-        border: 2px solid var(--t3-color);
+        border: 2px solid var(--t5-color);
         display: flex !important;
         gap: 1rem;
         align-items: center;
@@ -634,14 +634,15 @@ margin-bottom: 0px !important;
         font-size: 62px !important;
         bottom: 3%;
         padding: .3rem;
-        transform: translateX(0)
+        transform: translateX(0);
+        box-shadow: inset 0px 0px 0px 1px var(--t2-color), inset 0px 2px 0px 0px var(--o2-color), inset 0px 0px 0px 2px var(--o3-color), 3px 3px 3px 1px rgb(0 0 0 / 20%) !important;
     }
     .snackbar-mobile-icon {
         max-width: 2rem;
         padding-right: .6rem
     }
     .snackbar-mobile-img {
-        max-width: 1.5rem;
+        width: 2rem;
         margin-left: 1rem
     }
     #snackbar-mobile.tampil {
