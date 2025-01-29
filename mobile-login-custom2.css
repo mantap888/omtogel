@@ -26,9 +26,9 @@ animation: attentionShake 0.6s ease-in-out infinite alternate;
 
 
 @keyframes goldBgChange {
-  0% { background-color: #d4c8a1; } 
-  50% { background-color: #b8a678; }
-  100% { background-color: #d4c8a1; } 
+  0% { background-color: #d1d1d1; } 
+  50% { background-color: #a8a8a8; } 
+  100% { background-color: #d1d1d1; } 
 }
 
 
