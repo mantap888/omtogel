@@ -224,7 +224,7 @@ color: var(--w-color) !important;
     }
 
 .pool-name {
-    color: var(--w-color) !important;
+    color: var(--b-color) !important;
     width: 100% !important;
     font-size: .7rem !important;
     padding: 0.3rem !important;
@@ -240,7 +240,7 @@ background: linear-gradient(to bottom, var(--t3-color) 0%, var(--t5-color) 50%, 
 }
 
 .pool-date {
-    color: var(--w-color) !important;
+    color: var(--b-color) !important;
     font-size: .55rem !important;
     margin-left: 0 !important;
     padding-top: 0 !important;
@@ -249,7 +249,7 @@ background: linear-gradient(to bottom, var(--t3-color) 0%, var(--t5-color) 50%, 
 }
 
 .pool-result {
-    color: var(--o2-color) !important;
+    color: var(--b-color) !important;
     text-align: center !important;
     width: 100% !important;
     font-size: 1.3rem !important;
@@ -272,7 +272,7 @@ font-size: .8rem !important;
 .button-blue, .btn.btn-green, .button-orange, .btn-orange, .button-qris {
 
 background : linear-gradient(180deg, var(--t1-color) 0%, var(--t5-color) 18%, var(--t2-color) 90%, var(--t5-color) 90%, var(--t4-color) 100%) !important;
-color: var(--w-color) !important;
+color: var(--b-color) !important;
 padding: .7rem 1rem;
 border: 2px solid var(--t2-color) !important;
 font-weight: bolder !important;
