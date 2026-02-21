@@ -343,7 +343,7 @@ text-transform : uppercase !important;
     text-transform: uppercase;
     align-items: center;
     justify-content: center;
-    color: var(--w-color);
+    color: var(--b-color);
     text-decoration: none;
     position: relative;
     top: 17px;
