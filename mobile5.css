@@ -249,7 +249,7 @@ background: linear-gradient(to bottom, var(--t3-color) 0%, var(--t5-color) 50%, 
 }
 
 .pool-result {
-    color: var(--b-color) !important;
+    color: var(--w-color) !important;
     text-align: center !important;
     width: 100% !important;
     font-size: 1.3rem !important;
