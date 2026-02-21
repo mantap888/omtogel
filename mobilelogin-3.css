@@ -93,11 +93,17 @@ background: linear-gradient(101deg, var(--o2-color) 4%, var(--o3-color) 15%, var
 background-size: 300% 300% !important;
 border: 1px solid var(--t4-color) !important;
 border-radius: 18px 0px;
-color: var(--t5-color) !important;
+color: var(--b-color) !important;
 font-weight: bold !important;
 font-size: 1rem !important;
 box-shadow: inset 0px 0px 0px 1px var(--o2-color), inset 0px 2px 0px 0px var(--o2-color), inset 0px 0px 0px 2px var(--o3-color), 3px 3px 3px 1px rgb(0 0 0 / 20%) !important;
 text-transform : uppercase !important;
+}
+
+.game-wrapper .game-lobby-content .game-angka .lobby-game-angka-keluar {
+
+ color: var(--b-color) !important;
+ 
 }
 
 .main-content, .main, .slot-wrapper, .slot-content {
