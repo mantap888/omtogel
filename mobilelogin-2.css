@@ -61,7 +61,7 @@ border-bottom: 2px solid var(--o2-color) !important;
 header.header-after-login .header-wrapper .buttn-header-deposit, .btn-refresh-balance, a.buttonWrap.buttonlc2.button-orange, .games-btn-container .btn-games-wrapper .btn-game-hs, .betdisinibtn {
 
 background : linear-gradient(101deg, var(--o2-color) 4%, var(--o3-color) 15%, var(--o3-color) 30%, var(--o2-color) 69%, var(--o3-color) 87%, var(--o2-color) 92%) !important;
-color: var(--t5-color) !important;
+color: var(--b-color) !important;
 padding: .7rem 1rem;
 border: 2px solid var(--t2-color) !important;
 font-weight: bolder !important;
