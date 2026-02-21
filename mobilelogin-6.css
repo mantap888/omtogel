@@ -44,7 +44,7 @@ border: 3px solid var(--t1-color);
 .lobbyadscustom a:last-child {
 background: linear-gradient(325deg, var(--o-color) 0%, var(--t5-color) 30%, var(--t4-color) 40%, var(--t3-color) 60%, var(--t6-color) 90%, var(--o-color) 100%) !important;
 padding: 1.2rem;
-color: var(--o2-color) !important;
+color: var(--b-color) !important;
 border-radius: 18px 80px;
 box-shadow: inset 0px 0px 0px 1px var(--t2-color), inset 0px 2px 0px 0px var(--t2-color), inset 0px 0px 0px 2px var(--t3-color), 3px 3px 3px 1px rgb(0 0 0 / 20%) !important;
 font-size: 1.4rem;
